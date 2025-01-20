@@ -1,1 +1,1 @@
-# react-tailwindcss-shadcn-vite-starter
+# react-tailwindcss-vite-starter
